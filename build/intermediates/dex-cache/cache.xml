@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_86cb2acb168101b65f1502e8dc99899c69cb85b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_e1a23e8ac1dee31103f49e1365369efe658857b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_78f7fdbc1ae7cd9ff6832a13310216130c9aed89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_a75d4fc2f8fa4a1b7e7f89037aae7e89571b15a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_3716621cca85c9890424824af18834ee8b65dd62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ad64c2e926584ab411689aaef2529e6fc03cf7cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9f2b6439a02aaaee46e344f2c41f8b2f0ed56164/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_b9bd70eaed37c471d96e780e339498cf4c30d4d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_d57b894cc56bfc20c11219f3b4f0e942db339687/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_a7ec7b2031a13030169343d684987fbdcc24f13f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_0a4b4882ce5fcd4410cb0471c15317844b2af7af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_33c9c7e94a2255253ef2c93b7d92fcaa82cf7f55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_52262312ba96144fde0cb1e17969ce73ec3405dc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_79db6b547ae2dd92ec065682bb4896513edce8ad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_17305a9e32e0087fba30e28db87d3870f00c95ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_06a42c762c1309a9e6f603239985e1ece86a9aee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_e5abbac3b1fb960c373ac86cdf118758a6fb9f1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_671e2811c0bc89d08f98d1007f7df463754cde87/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_02be2d2acc73640a0b565fb8b3275311a83e8902/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_5a3613ac391342a5a2ab73f262395d8f400c1662/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_f5013f38666e1fb59e239cc1a7ae0f4990365cda/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_e007a53c796335dba15e0a3b16f30ea072d64108/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_29e51c16bcc1a0be42f3ca636442e744107666e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_248384b24fa101ce5d7f986c70da61fe29e92d5c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d4240563a23afc42d878b22ce1da6fc3749681cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_9e0ecc416b2458acff6ace108838781e7fe6c72f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_425630c5152c82f3d313b348cec03c815c68310b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_d400f228abdf9467d6197f4162f5871987104581/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="955a12d5cd5ca479222e9c0d694b3f079e57ac37">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_62613a7fb645961cbd7edad352e3114c1e5d90db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_afcd0f0c5f51cd010edcce019ebed9fb39ae6ffd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_2840fa2695b1c5fef6b8a164c6fbe2a353a2ec84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_a7524dd1eda8b7d79fbaad2560d4427209f8bbb5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_ac398bfa051a749e17dc69e5d82d132f0946b75e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_92e82ee30338a4c88d3b1f91225baa5c5b0ead72/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_0423156b46023ac26bb262ec8d6004379647c18b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_691d6f962cf43068a343781d72ced4fab90a47c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d00789dc9e8f97b91cccf791f23f1b07c6d9dfd9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_bc9379121d194578b96dc6f3dff2556359619b1f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_c793e4ecca2efdc354a0cc6926bae5d59d2bbf9a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_41a310c8fc6d7c629823ca448d283b05e8a37544/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_046597d6ec2edc2f9f701792f6bf15ef28d01c52/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_8f716d6f76266db05386a4c04f7f00b814c911ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_9b3a9b78e3ae41640b1df3adac8aed918d0267d1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_371e59662b8e802c39c29470e1a5d94831d2170f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_e012ca1577baf8d3e4f095dfba1214b56a802a9f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_14dbd7114e801cc5f58f39136448f7590671a4d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_383ed456ce2433cee02682c5336575ac7c765f1e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_19838145e565191301308798bc4c752addc31fe8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8838fa8523e0ec355cffa67f454923e7e5616399">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b950126327a8b37b0de7900b7136789b837b3b60/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_465e0cc5dfb6a161fe0e392ba1c6163b77a723de/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_cbb880aa7b446491d05e562f8c35bbfa70a31e62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_1ad8becf43435cc77c82441c8edbdd73c7b9b8fc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_48a38018315e77f5c870e188d7c121061f7ca70e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_91c6d2b1f199f8f24653317fe00f45fb432019db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_008a8aafc055dcc72a68777d6c20ab35d35eacd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_72e147ee78cc288077b7d44f50fe4f310ec0cf20/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_7a281eeffc1250d1f7b8834b359eec5c97bef46e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4a33684a0d63377a133494e2928fe1e780fc7539/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_ebd70356ca853eef0801dc868099d02960d54a18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_28d09c69335ed7543827d277f9127cb5c1129538/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_eb6e9194b7777229598c3c71e346f24fbc4492da/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_47e0a844e0f3993d7b466a958dedf32fac4c0d43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/rami/AndroidStudioProjects/Ouestmavoiture3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_ef162f86db81f3cfb3e33457546e3483e6a16fb9/classes.dex" />
+    </item>
+
+</items>

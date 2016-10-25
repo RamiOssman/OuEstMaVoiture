@@ -1,0 +1,40 @@
+
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.atom.rami.ouestmavoiture.MapsActivity" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="100px"
+            android:text="J'ai garé ma voiture"
+            android:textSize="25px"
+            android:onClick="SavePos"
+            android:id="@+id/direction"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.5" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="100px"
+            android:text="Direction vers ma voiture"
+            android:textSize="25px"
+            android:onClick="getDirection"
+            android:id="@+id/init"
+            android:layout_weight="0.5" />
+
+    </LinearLayout>
+
+
+
+</fragment>
